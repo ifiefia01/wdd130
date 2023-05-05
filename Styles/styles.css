@@ -22,7 +22,8 @@ body {
   footer {
     background-color: steelblue;
     color: white;
-  }#active {
+  }
+  #active {
     background-color: white;
     color: steelblue;
 }
