@@ -1,0 +1,42 @@
+h1 { color: white;
+    text-align: center;
+    font-size: .12em;
+    font-family: 'Crimson Text', serif;
+  }
+  body { background-color: #FCA6C9;
+     white-space: nowrap; 
+     text-align: center;
+}
+nav {text-align: center;
+    font-family: 'Roboto', sans-serif;
+}
+    .main-para {
+      font-size: .60em;
+      line-height: 2em;
+      color: black;
+
+  }
+  a {   text-decoration: none;
+        text-align: center;
+        font-size: 1.8em;
+        color: white;
+  }
+  img {
+    width: 12%;
+    display: block;
+    margin: 0 auto;
+  }
+  main p {font-family: 'Merriweather', sans-serif;
+    width: 30%;
+    margin: 5px auto;
+    text-align: center;
+    color: white;
+  }
+  footer p {
+    color: black;
+    font-size: 10px;
+    text-align: center;}
+  a:hover {
+    background-color: black;
+  }
+  
