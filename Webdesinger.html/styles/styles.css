@@ -1,0 +1,29 @@
+.head { 
+    min-width: 100%;
+    max-width: 100%;
+    height: auto;
+    position: fixed;
+    
+}
+footer {background: gray;
+    width: 100%;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    
+}
+/* Three image containers (use 25% for four, and 50% for two, etc) */
+.column {
+    float: left;
+    width: 25%;
+    margin: 8px;
+    border-radius: 50%;
+    border: 8px black solid;
+  }
+  
+  /* Clear floats after image containers */
+  .row::after {
+    content: "";
+    clear: both;
+    display: table;
+}
