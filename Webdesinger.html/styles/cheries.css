@@ -1,0 +1,18 @@
+body {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-template-rows: repeat(1, 1fr);
+    grid-column-gap: 1px;
+    grid-row-gap: 1px;
+    }
+img {
+    margin-right: 100%;
+}
+.righthalf {
+    margin-left: 50%;
+    background-color: gray;
+}
+.centered {
+    grid-column: 1/2;
+    align-self: center;
+}
