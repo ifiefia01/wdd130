@@ -41,8 +41,8 @@ img {
   margin: 0 auto;
 }
 h1, h2, h3, h4, h5, h6 {
-  font-family: var(--heading-font);
-  color: var(--headline-color-on-white);
+  font-family: 'Lobster', cursive;
+  color: #f0a6ca(--headline-color-on-white);
 }
 h2 {
   text-align: center;
@@ -63,7 +63,7 @@ header > h1, header > h2 {
 }
 
 p {
-  font-family: var(--paragraph-font);
+  font-family: "font-family: 'Righteous', cursive;";
   color: var(--paragraph-color-on-white);
   padding: 1em;
 }
@@ -74,7 +74,7 @@ p {
   text-align: center;
 }
 .colors th {
-  background-color: #999-;
+  background-color: #f0e6ef;
 }
 .colors td{
   width: 25%;
@@ -82,16 +82,16 @@ p {
 }
 
 .primary {
-  background-color: var(--primary-color);
+  background-color: #9c89b8;
 }
 .secondary {
-  background-color: var(--secondary-color);
+  background-color: #f0a6ca;
 }
 .accent1 {
-  background-color: var(--accent1-color);
+  background-color: #efc3e6;
 }
 .accent2{
-  background-color: var(--accent2-color);
+  background-color: #f0e6ef;
 }
 
 p.colored {
