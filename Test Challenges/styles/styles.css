@@ -1,0 +1,10 @@
+header {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+}
+div {
+    max-width: fit-content;
+}
+h1 {
+    position: absolute;
+}
