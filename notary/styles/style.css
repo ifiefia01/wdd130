@@ -197,7 +197,7 @@ footer a:hover {
     padding-top: 20%;
     float: left;
  }
- .card-img {
+ /*.card-img {
     width: 100%;
     border: 10px solid black;
     transition: transform .5s;
