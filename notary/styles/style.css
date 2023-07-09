@@ -190,13 +190,47 @@ footer a:hover {
     display: grid;
     grid-template-columns: repeat(10, 1fr);
  }
- .text p h3 {
+ /*.text p h3 {
     grid-column: 7/9;
     font-size: 20px;
     padding-left: 20px;
     padding-top: 20%;
     float: left;
- }
+ }*/
+ .notarycard3, .notarycard4, .notardcard5 {
+    margin: 50px auto;
+        width: 100%;
+}
+.notarycard3 {
+    grid-column: 1/4;
+    grid-row: 1/4;
+}
+.notarycard4 {
+    grid-column: 1/4;
+    grid-row: 3/6;
+}
+.notarycard5 {
+    grid-column: 7/10;
+    grid-row: 7/10;
+
+}
+.msg1 {
+    background-color: #9c89b8;
+    line-height: 1.5em;
+    padding: 35px;
+    grid-column: 6/10;
+    grid-row: 1/6;
+    box-shadow: 5px 5px 10px #efc3e6;
+}
+.msg1 h2 {
+    color:#f0e6ef;
+    font-family: 'Righteous', serif;   
+}
+.msg1 p {
+    color: #b8bedd;
+    font-size: .8em;
+    padding-bottom: 15px;
+}
  /*.card-img {
     width: 100%;
     border: 10px solid black;
