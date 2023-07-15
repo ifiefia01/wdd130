@@ -302,12 +302,10 @@ input[type=text], select, textarea {
 .notarycard6 {
     grid-column: 1/4;
     grid-row: 1/4;
-    width: 50%;
 }
 .notarycard7 {
     grid-column: 7/10;
     grid-row: 1/4;
-    width: 50%;
 }
 .container3 {
     grid-column: 8/10;
