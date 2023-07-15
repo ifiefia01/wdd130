@@ -296,7 +296,8 @@ input[type=text], select, textarea {
  }
  .notarycard6, .notarycard7 {
     margin: 50px auto;
-        width: 100%;
+        width: 50%;
+        background-size: cover;
 }
 .notarycard6 {
     grid-column: 1/4;
