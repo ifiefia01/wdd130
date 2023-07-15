@@ -295,9 +295,7 @@ input[type=text], select, textarea {
     grid-template-columns: repeat(10, 1fr);
  }
  .notarycard6, .notarycard7 {
-    margin: 50px auto;
-        width: 50%;
-        background-size: cover;
+    margin: 200px auto;
 }
 .notarycard6 {
     grid-column: 1/4;
